@@ -65,5 +65,13 @@ Altre ispirazioni citate (manuale non presente):
 - Soundprism Legacy (app iOS)
 - App Tenori per iOS
 
-Se conosci altri controller a matrice simili o interessanti, puoi proporne l'aggiunta a questa
-lista.
+Controller a matrice affini proposti (manuale da reperire), in ordine di pertinenza:
+
+- **Akai Force** — griglia 8x8 RGB + touchscreen, multi-modalità (clip launch, step seq, drum, note).
+- **Synthstrom Deluge** — sequencer a griglia con firmware open-source.
+- **Roger Linn LinnStrument** — matrice di note espressiva con LED per cella e MPE.
+- **Embodme Erae II / Erae Touch** — griglia touch RGB con MPE e modalità multiple.
+- **DJ TechTools Midi Fighter 64** — griglia 8x8 di pulsanti arcade RGB.
+- **Polyend Play / Tracker** — groovebox/sequencer a griglia.
+- **Squarp Hapax / Pyramid** — sequencer MIDI con matrice di pad.
+- **Sensel Morph**, **Keith McMillen QuNeo** — superfici touch sensibili alla pressione (parte touch).
